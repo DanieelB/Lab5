@@ -1,3 +1,4 @@
 "Plik tekstowy" 
 "Dodano now¥ lini©" 
 "Dodana nowa linia" 
+"Kolejna zmiana w plik1.txt" 
