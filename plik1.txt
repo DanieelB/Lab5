@@ -1,2 +1,3 @@
 "Plik tekstowy" 
 "Dodano now¥ lini©" 
+"Dodana nowa linia" 
