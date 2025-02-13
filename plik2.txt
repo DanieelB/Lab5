@@ -1,1 +1,2 @@
 "To jest drugi plik" 
+"Kolejna zmiana w plik2.txt" 
